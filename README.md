@@ -2,6 +2,8 @@
 
 [Live Site](https://alexbpbdroid.github.io/adopt-a-dogJS/)
 
+![map](https://github.com/alexbpbdroid/adopt-a-dogJS/blob/master/adopt-map.jpg)
+
 ## About
 
 Adopt-a-Dog JS is an interactive map that utilized the petfinder API in order to display information on adoption shelters in the United States for dogs and displays detailed information on their breed, gender, age, etc
