@@ -1,0 +1,13 @@
+p {
+  font-size: 0.85em
+}
+
+.state {
+  fill: #e3e3e3;
+  stroke: #333;
+  stroke-width: 0.5;
+}
+
+.state:hover {
+  fill: lightblue;
+}
