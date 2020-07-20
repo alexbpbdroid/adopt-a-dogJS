@@ -11,3 +11,7 @@ p {
 .state:hover {
   fill: lightblue;
 }
+
+h1 {
+  text-align: center;
+}
