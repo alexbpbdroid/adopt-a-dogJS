@@ -1,17 +1,60 @@
+body {
+  margin: 0;
+}
+
 p {
-  font-size: 0.85em
+  font-size: 16px;
+  margin: 15px 0 10px 0;
 }
 
-.state {
-  fill: #e3e3e3;
-  stroke: #333;
-  stroke-width: 0.5;
+a {
+  color: #799DCB;
+  text-decoration: none;
+  transition: color 0.3s, background 0.3s, border 0.3s;
 }
 
-.state:hover {
+a:hover {
+  color: #48494b;
+	background: #e7e8e9;
+}
+
+svg {
+  background-color: white;
+	padding-left: 20px;
+}
+
+path {
   fill: lightblue;
+	stroke: #fff;
 }
 
-h1 {
-  text-align: center;
+path:hover {
+	fill: rgb(178, 100, 252);
+	cursor:pointer;
+}
+
+#tooltip {
+  width: 150px;
+  height: auto;
+  padding: 5px;
+  background-color: #fff;
+  color: #000;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  -webkit-box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.4);
+  box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.4);
+  pointer-events: none;
+  position: absolute;
+}
+				
+#tooltip.hidden {
+  display: none;
+}
+			
+#tooltip p {
+  margin: 0;
+  font-size: 14px;
+  line-height: 18px;
 }
