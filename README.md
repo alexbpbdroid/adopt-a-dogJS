@@ -2,7 +2,7 @@
 
 [Live Site](https://alexbpbdroid.github.io/adopt-a-dogJS/)
 
-![map](https://github.com/alexbpbdroid/adopt-a-dogJS/blob/master/adopt-map.jpg)
+![map](https://github.com/alexbpbdroid/adopt-a-dogJS/blob/master/calimap.jpg)
 
 ## About
 
