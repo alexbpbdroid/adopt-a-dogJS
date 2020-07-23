@@ -21,5 +21,4 @@ Users can find information on pet adoption shelters by clicking on their county 
   * [AlbersUsa TopoJSON](https://observablehq.com/@d3/u-s-map)
   * [Petfinder API](https://www.petfinder.com/developers/api-docs)
 
-
 <!-- test -->
